@@ -5,7 +5,7 @@
 ## Deployed App on Heroku
 ### https://boiling-mountain-96486.herokuapp.com/
 
-<img src="./client/src/images/homePage.png">
+<img src="./src/images/homePage.png">
 
 ## Description
 React application that allows sport and adventure enthusiasts to share gear amongst themselves. Users have the option to rent sports equipment when travelling , or just try something before committing to buy, or rent out items they own for a profit...  
@@ -34,16 +34,15 @@ MIT
 Pull requests are welcome
 
 ## Technologies
-React - for components,state,routing\
-Node.js - for JS runtime environment\
-Bootstrap - for responsive style\
-MongoDB,Mongoose - database for storing listed items information\
-Firebase - for user authentication and encryption\
-Firebase storage - for storing images\
-JS/ES6+ - for program logic\
-HTML - layout\
-CSS - for custom style\
-Animista.net - for CSS animations
+React - for components,state,routing
+Node.js - for JS runtime environment
+Bootstrap - for responsive style
+MongoDB,Mongoose - database for storing listed items information
+Firebase - for user authentication and encryption
+Firebase storage - for storing images
+JS/ES6+ - for program logic
+HTML - layout
+CSS - for custom style
 axios - for API calls
 
 
